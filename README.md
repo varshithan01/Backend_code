@@ -51,7 +51,7 @@ Tasks Completed
 Running the Project Locally
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/Backend_code.git  
+git clone https://github.com/varshithan01/Backend_code.git
 cd Backend_code  
 
 
